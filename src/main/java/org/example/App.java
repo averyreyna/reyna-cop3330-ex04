@@ -18,11 +18,11 @@ public class App {
         String inputVerb = input2.nextLine();
 
         Scanner input3 = new Scanner(System.in);
-        System.out.print("Enter and adjective: ");
+        System.out.print("Enter an adjective: ");
         String inputAdj = input3.nextLine();
 
         Scanner input4 = new Scanner(System.in);
-        System.out.print("Enter and adverb: ");
+        System.out.print("Enter an adverb: ");
         String inputAdverb = input4.nextLine();
 
         // used a formatting method for string substitution to avoid tons concatenation
